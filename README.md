@@ -3,9 +3,9 @@
 ### I am no one. But I want to be someone as a great Abdullah.  
 ![I am no one. But I want to be someone as a great Abdullah.  ](https://media.licdn.com/dms/image/D4D16AQEmV2byxUlN6A/profile-displaybackgroundimage-shrink_350_1400/0/1691583654435?e=1697068800&v=beta&t=FWee29Ck4WBpEGyvFUZucANAWKXoUvlz0qsGi2pHicc)
 
-I am a person in view you judge what is me right or wrong. to me this is I am. I am not hard to see but hard to find the real me.Only Almighty one knows the truth. Even me do not know who am I?
+I am a person in view you judge what is me right or wrong. to me this is I am. I am not hard to see but hard to find the real me.Only Almighty one knows the truth. Even me do not know who am I?skills are not shown it is proven through work and skills.
 
-Skills: skills are not shown it is proven through work and skills.
+Skills:HTML/CSS/JAVASCRIPT/JAVA/C/C++/Python
 
 - 🔭 I’m currently working on myself  
 - 🌱 I’m currently learning how to develop myself  
