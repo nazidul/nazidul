@@ -1,7 +1,7 @@
 # Starting by the name of Almighty One  
 ### *Nazidul* *the* *Abdullah*
 ### I am no one. But I want to be someone as a great Abdullah.  
-![I am no one. But I want to be someone as a great Abdullah.  ](https://media.licdn.com/dms/image/D4D16AQEmV2byxUlN6A/profile-displaybackgroundimage-shrink_350_1400/0/1691583654435?e=1697068800&v=beta&t=FWee29Ck4WBpEGyvFUZucANAWKXoUvlz0qsGi2pHicc)
+![I am no one. But I want to be someone as a great Abdullah.  ]
 
 I am a person in view you judge what is me right or wrong. to me this is I am. I am not hard to see but hard to find the real me.Only Almighty one knows the truth. Even me do not know who am I?skills are not shown it is proven through work and skills.
 
@@ -25,10 +25,6 @@ Skills:HTML/CSS/JAVASCRIPT/JAVA/C/C++/Python
 - when i do good i feel good when i do bad i feel bad you and i have to understand this 
 - if i any way harm any one i am sorry 
 - because i make mistakes
-
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/nazidul)](https://github.com/ryo-ma/github-profile-trophy)
 
